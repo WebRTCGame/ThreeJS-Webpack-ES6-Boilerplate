@@ -27,3 +27,4 @@ export default class Camera {
     this.threeCamera.updateProjectionMatrix();
   }
 }
+ 
